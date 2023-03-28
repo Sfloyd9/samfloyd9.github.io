@@ -403,3 +403,7 @@ html, body {
   border-radius: 5px;
   padding: 10px 20px;
 }
+
+#span-text {
+  font-size: 10px;
+}
